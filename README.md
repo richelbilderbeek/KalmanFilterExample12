@@ -1,6 +1,8 @@
 # KalmanFilterExample12
 
-[Kalman filterer example](https://github.com/richelbilderbeek/KalmanFilterExample).
+[Kalman filterer example](https://github.com/richelbilderbeek/KalmanFilterExample) that displays the equations.
+
+![](CppKalmanFilterExample12.png)
 
 # External links
 
